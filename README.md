@@ -1,8 +1,10 @@
-# tmdb_app
+# Flutter TMDB Movie App
+The Movie Explorer App is a user-friendly and feature-rich mobile application that allows users to explore a vast library of movies, access detailed information about each film, and watch trailers. The app leverages the power of the TMDb API to provide users with an extensive collection of movies from around the world.
 
-A new Flutter project.
 
 ## Getting Started
+
+
 
 This project is a starting point for a Flutter application.
 
